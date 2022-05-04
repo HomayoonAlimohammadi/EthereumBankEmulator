@@ -1,1 +1,1 @@
-# EthereumBankEmulator
+# Ethereum Bank Emulator
